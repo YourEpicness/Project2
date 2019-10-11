@@ -10,7 +10,6 @@ body {
 #favanimator-body {
 	margin: 0 auto;
 	padding: 0;
-	text-align: none !important;
 	background-color: #FBAB7E;
 	background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
