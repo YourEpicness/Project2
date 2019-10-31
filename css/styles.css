@@ -7,6 +7,10 @@ body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 20px;
 }
+
+#resume-body {
+	width: 1520px;
+}
 #favanimator-body {
 	margin: 0 auto;
 	padding: 0;
